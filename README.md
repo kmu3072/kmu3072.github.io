@@ -37,7 +37,8 @@
 1. ```http://jekyllthemes.org/``` 접속 후 원하는 테마 탐색
 2. 압축 파일을 다운받은 뒤 압축을 풀고 로컬 저장소로 받아오며 _posts 제외한 폴더 및 파일 덮어쓰기
 3. commit 후 push한 후 결과물 확인
-
+4. Celeste 테마 기준 About을 클릭하면 기본 소개가 나오고, Blog를 클릭해야 포스트들을 볼 수 있음
+ 
 ## 댓글 기능 추가
 1. ```https://disqus.com``` 접속 후 회원가입 
 2. "I want to install Disqus on my site" 선택 후 사이트 이름 입력
