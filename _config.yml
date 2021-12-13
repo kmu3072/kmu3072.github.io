@@ -32,3 +32,8 @@ comment:
   provider:      "disqus"
   disqus:
     shortname:   "kmu3072"
+
+analytics:
+  provider:      "google"
+  google:
+    tracking_ID: "UA-215132491-1"
