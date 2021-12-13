@@ -11,7 +11,7 @@ comments: true
 2. 계정 이름 및 속성 설정
    - 이때, **유니버설 애널리틱스 속성 만들기**에 **반드시** 체크
 
-[Google Analytics]: "https://analytics.google.com/analytics/web/"
+[Google Analytics]: https://analytics.google.com/analytics/web/
 
 ## Google Analytics를 블로그에 적용하기
 ### 추적 ID 및 추적 코드 받아오기
