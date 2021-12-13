@@ -34,7 +34,7 @@ comments: true
 5. _layouts 폴더의 ```default.html``` 파일에 ```{% include analytics.html %}``` 입력하기
 6. ```_config.yml``` 파일에 다음 코드 입력하기
 
-```
+```html
 analytics:
   provider:      "google"
   google:
